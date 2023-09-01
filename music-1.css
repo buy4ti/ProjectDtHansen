@@ -1,0 +1,57 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    background-color: blue;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+    
+}
+
+audio{
+    margin-left: 500px;
+}
+
+.enolaa{
+    image-rendering: auto;
+    width: 200px;
+    height: 300px;
+}
+
+.enola{
+    image-rendering: auto;
+    width: 450px;
+    height: 350px;
+    margin-left: 250px;
+}
+
+.enolaaa{
+    width: 295px;
+    height: 300px;
+}
+
+.enolaaaa{
+    margin-left: 170px;
+}
+
+.tebel{
+    border: 2px solid;
+    padding: 10px;
+    font-size: 30px;
+    width: 100px;
+    height: 230px;
+}
+
+.table{
+    display: grid;
+    grid-column:auto;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.Paragraph01{
+    font-size: 25px;
+    margin-left: 20px;
+}

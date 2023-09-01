@@ -1,0 +1,52 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    background-color: darkcyan;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+    
+}
+
+.enolaa{
+    image-rendering: auto;
+    width: 200px;
+    height: 300px;
+}
+
+.enola{
+    image-rendering: auto;
+    width: 450px;
+
+}
+
+.enolaaa{
+    width: 295px;
+
+}
+
+.enolaaaa{
+    margin-left: 170px;
+}
+
+.tebel{
+    border: 2px solid;
+    padding: 10px;
+    font-size: 30px;
+    width: 100px;
+    height: 230px;
+}
+
+.table{
+    display: grid;
+    grid-column:auto;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.Paragraph01{
+    font-size: 25px;
+    margin-left: 20px;
+}
